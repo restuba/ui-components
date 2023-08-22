@@ -46,6 +46,7 @@
     ]
   },
   "devDependencies": {
+    "@commitlint/cli": "^17.7.1",
     "@commitlint/config-conventional": "^17.7.0",
     "@types/react-transition-group": "^4.4.6",
     "@types/styled-components": "^5.1.26",
